@@ -1,5 +1,7 @@
 # gittraining
 
-Trainers:
+## Trainers:
 
 - Vinit
+
+## Trainees
