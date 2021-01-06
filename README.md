@@ -1,1 +1,5 @@
 # gittraining
+
+Trainers:
+
+- Vinit
