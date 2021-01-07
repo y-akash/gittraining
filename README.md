@@ -5,3 +5,4 @@
 - Vinit
 
 ## Trainees
+- Niranjan Patil
